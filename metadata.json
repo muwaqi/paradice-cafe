@@ -1,0 +1,7 @@
+{
+  "name": "Paradise Cafe and Restaurant",
+  "description": "A luxury digital dining experience for Paradise Cafe and Restaurant. Features AI-powered menu curation, a premium obsidian-gold aesthetic, and curated culinary masterpieces.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
